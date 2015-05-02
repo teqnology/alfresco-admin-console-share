@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Custom Admin Console Page</shortname>
+    <description>Custom Alfresco Share admin console page built with Aikau</description>
+    <url>/components/console/custom-console-page</url>
+    <authentication>admin</authentication>
+    <family>admin-console</family>
+</webscript>
