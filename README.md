@@ -21,7 +21,7 @@ This is an example of how to create a custom admin-console page in Alfresco Shar
 ## Quickstart
 
 - Locate the AMP files inside the path:
-	- `alfresco-admin-console-share/target/alfresco-admin-console-share.amp`, you can download it [here](blob/master/target/alfresco-admin-console-share.amp)
+	- `alfresco-admin-console-share/target/alfresco-admin-console-share.amp`, you can download it [here](target/alfresco-admin-console-share.amp)
 - Stop Alfresco
 - Copy the `alfresco-admin-console-share.amp` inside your alfresco `amps_share` folder
 - Run `bin/apply_amps.sh` in order to install the extension
